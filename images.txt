@@ -1,5 +1,8 @@
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
+ghcr.io/monlor/xiaoya-alist,ghcr.io/monlor/xiaoya-metadata,ghcr.io/monlor/xiaoya-jellyfin
+ghcr.io/monlor/xiaoya-alist,ghcr.io/monlor/xiaoya-metadata,ghcr.io/monlor/xiaoya-embyserver,ghcr.io/monlor/xiaoya-jellyfin
+homeassistant/home-assistant:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
