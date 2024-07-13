@@ -6,3 +6,4 @@ homeassistant/home-assistant:latest
 --platform=linux/arm64 xiaoyaliu/alist
 #
 whyour/qinglong:debian
+thingsboard/tb-gw-mqtt-broker:latest
