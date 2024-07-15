@@ -5,6 +5,6 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm64 homeassistant/home-assistant:latest
---platform=linux/arm64/v8 whyour/qinglong:debian
+--platform=linux/arm64/v8 whyour/qinglong:v2.17.8
 --platform=linux/arm64/v8 thingsboard/tb-gw-mqtt-broker:latest
 --platform=linux/arm64 portainer/portainer-ce:latest
