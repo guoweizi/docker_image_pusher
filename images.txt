@@ -6,6 +6,6 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm64 whyour/qinglong:latest
 --platform=linux/arm64/v8 thingsboard/tb-gw-mqtt-broker:latest
---platform=linux/arm32/v7 homeassistant/home-assistant:latest
---platform=linux/arm32/v7 whyour/qinglong:latest
---platform=linux/arm32/v7 portainer/portainer-ce:latest
+--platform=linux/arm32v7 homeassistant/home-assistant:latest
+--platform=linux/arm32v7 whyour/qinglong:latest
+--platform=linux/arm32v7 portainer/portainer-ce:latest
