@@ -1,11 +1,10 @@
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
-
+homeassistant/home-assistant:latest
+whyour/qinglong:latest
+portainer/portainer-ce:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
---platform=linux/arm64 homeassistant/home-assistant:latest
---platform=linux/arm64 whyour/qinglong:v2.17.11
 --platform=linux/arm64 whyour/qinglong:latest
 --platform=linux/arm64/v8 thingsboard/tb-gw-mqtt-broker:latest
---platform=linux/arm64 portainer/portainer-ce:latest
