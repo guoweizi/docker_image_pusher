@@ -9,3 +9,4 @@ xhofe/alist:latest
 --platform=linux/arm homeassistant/home-assistant:latest
 --platform=linux/arm whyour/qinglong:latest
 --platform=linux/arm portainer/portainer-ce:latest
+--platform=linux/arm thingsboard/tb-gateway
